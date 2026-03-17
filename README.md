@@ -16,4 +16,4 @@ This project is a simple **Login GUI** made using Java Swing.
 - `README.md` – this description  
 
 ## Author
-- [Your Name]
+- B251871026 Tengis
